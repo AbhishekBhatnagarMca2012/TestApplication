@@ -31,7 +31,7 @@ namespace ConsoleApp4
         { 
         
             List<int> list = new List<int>();
-            int sum = 0;
+            int sum = 0; // check
 
             for (int i = 0; i < numbers.Length; i++)
             {
